@@ -1,9 +1,11 @@
+
 name:Cai Junru
 id:20242190
 English name:Tate
 
 
-Note: you should type the markdown text by yourselves to learn how the markdown is worked
+20242189 Wang Liangxu（Lax）
+
 
 Markdown Cheatsheet<a name="TOP"></a>
 
